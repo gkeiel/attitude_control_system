@@ -19,14 +19,16 @@ An **object-oriented programming (OOP) code for attitude control of an spacecraf
 - **Software structure**: object-oriented architeture with independent classes and configuration file.
 
 ### 🎞️ Animation
-- **Animation**
 
-- **Attitude errors**
+- **Orbit and attitude animation**:
+![Orbit and Attitude](animation_example.gif)
+
+- **Attitude errors**:
   <p align="center">
   <img width="733" height="395" alt="attitude_errors" src="https://github.com/user-attachments/assets/ae198956-3ff5-4c10-b2cb-45d6ffe91146" />
   </p>
 
-- **References and output angles**
+- **References and output angles**:
   <p align="center">
   <img width="733" height="395" alt="references" src="https://github.com/user-attachments/assets/33efd5c7-ea06-49cf-83fd-3c6d09b54e39" />
   </p>

@@ -222,6 +222,7 @@ class Animator:
     
     def animate(self, interval=20):
         self.ani = FuncAnimation(self.fig, self.update, frames=len(self.r_data), interval=interval)
+        self.ani.save("data/animation.gif", writer="pillow", fps=20)
         plt.show()
     
     def plotting(self, dt):        
